@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{ED871B70-4FF3-3BE5-D668-BD951EFF9CAC}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "AdsMountingSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bec72377b91a490abc34879262395930"
+		}
+	]
+}
